@@ -1,0 +1,10 @@
+
+
+void main(void)
+{
+  int a,b;
+  
+  a = 0;
+  b = a;
+  printf("Hello:a=%d b=%d\r\n", a,b);
+}
